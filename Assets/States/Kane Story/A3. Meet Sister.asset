@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95578af628a002e42943bdb40a10238c, type: 3}
+  m_Name: A3
+  m_EditorClassIdentifier: 
+  storyText: "You meet your sister outside of her apartment.  she tells you that
+    she doesn't have the money, but  she knows where her employer keeps his cash
+    in the store. \n\nshe has only some of the money on her\r\n\r\n\r\n1. Go to the
+    store and try to rob it\r\n2. Go to Kane with part of the money"
+  nextStates:
+  - {fileID: 11400000, guid: 9aab25f3b6b011b4987c603eeaa2e501, type: 2}
+  - {fileID: 11400000, guid: dc18c46840e38c94d9978a1249bea6f2, type: 2}

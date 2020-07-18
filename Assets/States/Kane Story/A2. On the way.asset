@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95578af628a002e42943bdb40a10238c, type: 3}
+  m_Name: A2
+  m_EditorClassIdentifier: 
+  storyText: "You're on your wayto Kane. Right when you arrive, you  see two armed
+    gang member outside the place\r\n\r\nYou deiced:\r\n1. Go meet sister\n2. Go
+    inside\r"
+  nextStates:
+  - {fileID: 11400000, guid: 6d7a0b700f195de4aac3c27d8b10bac8, type: 2}
+  - {fileID: 11400000, guid: dc18c46840e38c94d9978a1249bea6f2, type: 2}

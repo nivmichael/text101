@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95578af628a002e42943bdb40a10238c, type: 3}
+  m_Name: B4
+  m_EditorClassIdentifier: 
+  storyText: 'Armed guards come in and see you tring to escape. They pull out guns..
+
+    
+
+    Continue..'
+  nextStates:
+  - {fileID: 11400000, guid: ea35c08817bfa9942bd7454326f5c52e, type: 2}

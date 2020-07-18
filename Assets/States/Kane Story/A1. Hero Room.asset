@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95578af628a002e42943bdb40a10238c, type: 3}
+  m_Name: A1. Hero Room
+  m_EditorClassIdentifier: 
+  storyText: "Our hero, Reggie,  is in his room listening to music. Phone call from
+    drug dealer, Kane: \"bring me my money right now or you finished!\". \r\n\r\n\"Reggie\",
+    you think to yourself, \"I'm broke, he'll fucking shoot my ass!\", so you decide
+    deiced:\r\n1. Go to Kane without money and try to get more time\r\n2. Try and
+    get money from sister"
+  nextStates:
+  - {fileID: 11400000, guid: b48816b586ac24b4eb79f37932a46146, type: 2}
+  - {fileID: 11400000, guid: 6d7a0b700f195de4aac3c27d8b10bac8, type: 2}
