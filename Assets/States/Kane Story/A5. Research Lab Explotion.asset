@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95578af628a002e42943bdb40a10238c, type: 3}
+  m_Name: A5. Research Lab Explotion
+  m_EditorClassIdentifier: 
+  storyText: 'While rounding around the, a big explosion happens in a near by lab,
+    which blows a hole in the outer wall. A a strange light glows from within.
+
+    
+
+    1.
+    Investigate the light - go into the lab
+
+    2. ignore the lab - go back to
+    the front of the store and rob it'
+  nextStates:
+  - {fileID: 11400000, guid: c204d1e9e3329e54aa3b42caf81510eb, type: 2}
+  - {fileID: 11400000, guid: 30ead2ce8fea7c947a626c8e8f223fd0, type: 2}

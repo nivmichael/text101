@@ -10,7 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 95578af628a002e42943bdb40a10238c, type: 3}
-  m_Name: B6
+  m_Name: B6. Decided to go to the store
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'You''ve decides to go to rob the store
+
+    
+
+    
+
+    continue..'
+  nextStates:
+  - {fileID: 11400000, guid: 9aab25f3b6b011b4987c603eeaa2e501, type: 2}

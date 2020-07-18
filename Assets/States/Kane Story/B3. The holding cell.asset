@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 95578af628a002e42943bdb40a10238c, type: 3}
-  m_Name: B3
+  m_Name: B3. The holding cell
   m_EditorClassIdentifier: 
   storyText: 'Kane needs time to think about what to do with you, tells you to stay
     in a room.

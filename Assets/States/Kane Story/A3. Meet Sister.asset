@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 95578af628a002e42943bdb40a10238c, type: 3}
-  m_Name: A3
+  m_Name: A3. Meet Sister
   m_EditorClassIdentifier: 
   storyText: "You meet your sister outside of her apartment.  she tells you that
     she doesn't have the money, but  she knows where her employer keeps his cash

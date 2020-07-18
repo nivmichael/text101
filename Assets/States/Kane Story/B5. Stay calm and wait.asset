@@ -10,12 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 95578af628a002e42943bdb40a10238c, type: 3}
-  m_Name: B4. Escape!
+  m_Name: B5. Stay calm and wait
   m_EditorClassIdentifier: 
-  storyText: 'Armed guards come in and see you tring to escape. They pull out guns..
+  storyText: 'Kane calms down and Tell Reggie that there''s a store he can rob, everybody
+    know there''s cash there, or he can ask his sister
 
     
 
-    Continue..'
+    
+
+    
+
+    1.
+    Go to store
+
+    
+
+    2 Go to sister'
   nextStates:
-  - {fileID: 11400000, guid: ea35c08817bfa9942bd7454326f5c52e, type: 2}
+  - {fileID: 11400000, guid: 15fa7366d00c01441a96aaf59f571155, type: 2}
+  - {fileID: 11400000, guid: 6d7a0b700f195de4aac3c27d8b10bac8, type: 2}

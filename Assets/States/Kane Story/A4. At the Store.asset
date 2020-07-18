@@ -10,12 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 95578af628a002e42943bdb40a10238c, type: 3}
-  m_Name: B4. Escape!
+  m_Name: A4. At the Store
   m_EditorClassIdentifier: 
-  storyText: 'Armed guards come in and see you tring to escape. They pull out guns..
+  storyText: 'You  get to the store. it''s empty, but you see a blinking red light
+    from within.
 
     
 
-    Continue..'
+    1. Go around the back to find a way in
+
+    2. Try
+    and rob the place through front door'
   nextStates:
-  - {fileID: 11400000, guid: ea35c08817bfa9942bd7454326f5c52e, type: 2}
+  - {fileID: 11400000, guid: 0409c1e6d0abd4f4cb2ceeaf74e3263d, type: 2}
+  - {fileID: 11400000, guid: 30ead2ce8fea7c947a626c8e8f223fd0, type: 2}
