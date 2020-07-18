@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "You meet your sister outside of her apartment.  she tells you that
     she doesn't have the money, but  she knows where her employer keeps his cash
-    in the store. \n\nshe has only some of the money on her\r\n\r\n\r\n1. Go to the
+    in the store. \n\nshe has only some of the money on her\r\n\r\r\n1. Go to the
     store and try to rob it\r\n2. Go to Kane with part of the money"
   nextStates:
   - {fileID: 11400000, guid: 9aab25f3b6b011b4987c603eeaa2e501, type: 2}

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: A2. On the way
   m_EditorClassIdentifier: 
   storyText: "You're on your wayto Kane. Right when you arrive, you  see two armed
-    gang member outside the place\r\n\r\nYou deiced:\r\n1. Go meet sister\n2. Go
+    gang member outside the place\r\n\r\nYou deiced:\n\r\n1. Go meet sister\n2. Go
     inside\r"
   nextStates:
   - {fileID: 11400000, guid: 6d7a0b700f195de4aac3c27d8b10bac8, type: 2}

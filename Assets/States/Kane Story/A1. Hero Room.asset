@@ -15,7 +15,7 @@ MonoBehaviour:
   storyText: "Our hero, Reggie,  is in his room listening to music. Phone call from
     drug dealer, Kane: \"bring me my money right now or you finished!\". \r\n\r\n\"Reggie\",
     you think to yourself, \"I'm broke, he'll fucking shoot my ass!\", so you decide
-    deiced:\r\n1. Go to Kane without money and try to get more time\r\n2. Try and
+    deiced:\r\n\n1. Go to Kane without money and try to get more time\r\n2. Try and
     get money from sister"
   nextStates:
   - {fileID: 11400000, guid: b48816b586ac24b4eb79f37932a46146, type: 2}

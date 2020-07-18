@@ -15,6 +15,8 @@ MonoBehaviour:
   storyText: "Welcome to this adventure game.\n\nYou're take the part of Reggie,
     our hero, and help him navigate his dangerous quest, and find a way to improve
     the world.\n\nAt each stage you'll be asked to push a key on the keyboard to
-    determine your nest steps.\n\n At any point in time push \"q\" to quit."
+    determine your next steps, for example:\nPress \"1\" for option 1, \"2\" for
+    option 2 and so on..\n\n At any point in time push \"q\" to quit.\n\nPush \"1\"
+    to continue.."
   nextStates:
   - {fileID: 11400000, guid: 57aa95f51b5aba441a29894372315ade, type: 2}

@@ -24,6 +24,6 @@ MonoBehaviour:
 
     
 
-    Continue..'
+    Push "1" to continue..'
   nextStates:
   - {fileID: 11400000, guid: ea35c08817bfa9942bd7454326f5c52e, type: 2}

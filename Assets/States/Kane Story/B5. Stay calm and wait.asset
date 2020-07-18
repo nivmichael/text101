@@ -12,21 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95578af628a002e42943bdb40a10238c, type: 3}
   m_Name: B5. Stay calm and wait
   m_EditorClassIdentifier: 
-  storyText: 'Kane calms down and Tell Reggie that there''s a store he can rob, everybody
-    know there''s cash there, or he can ask his sister
-
-    
-
-    
-
-    
-
-    1.
-    Go to store
-
-    
-
-    2 Go to sister'
+  storyText: "Kane calms down and Tell Reggie that there's a store he can rob, everybody
+    know there's cash there, or he can ask his sister\r\n\r\n\r\n1. Go to store\r\r\n2
+    Go to sister"
   nextStates:
   - {fileID: 11400000, guid: 15fa7366d00c01441a96aaf59f571155, type: 2}
   - {fileID: 11400000, guid: 6d7a0b700f195de4aac3c27d8b10bac8, type: 2}
