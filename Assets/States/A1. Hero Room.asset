@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95578af628a002e42943bdb40a10238c, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: 'Hero walks home from college, sees the drug dealer and his gang he
+    ows money to
+
+    He got some money at home, but none on him
+
+    Could head
+    on toward the dealer and explain why he''s late, or sneak away through a side
+    street
+
+
+
+    Choices:
+
+    1. Face the dealer gang
+
+    2. sneak through an
+    ally by the research lab'
+  nextStates:
+  - {fileID: 11400000, guid: 629780083f9e9c74084d85fbb3a6dd51, type: 2}
+  - {fileID: 11400000, guid: a31a7d5e01825f840a50e669453da22d, type: 2}
