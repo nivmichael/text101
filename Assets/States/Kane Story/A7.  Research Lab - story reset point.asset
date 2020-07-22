@@ -20,4 +20,6 @@ MonoBehaviour:
     are buttons. \r\n\r\nSuddenly, a voice behind:\"Hey you, don't move!\r\n\r\nA
     guard stands on the far side of the lab, and reach for his gun.\r\n\r\n1. Press
     the button on the device\r\n2. Take the device and tun away"
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: c46d2bd0feab4a74da412624c495715b, type: 2}
+  - {fileID: 11400000, guid: 7b339a2d41a1ad64a856574a7dea0ca2, type: 2}
